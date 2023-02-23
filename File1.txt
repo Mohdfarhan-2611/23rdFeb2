@@ -3,3 +3,5 @@ This is my file1
 I am updating this file now
 
 Changes made
+
+New Code
